@@ -16,6 +16,7 @@ Los tópicos cubiertos son:
 
 - 🌱 **Francisco Mendoza**: TA.
 
+<<<<<<< HEAD
 - 👋**MaFer Minango**: TA.
 
 -  🌱**Angel Ojeda**:TA.
@@ -28,3 +29,7 @@ Los tópicos cubiertos son:
 
 3. Emily Benavides
 
+=======
+
+Hola prueba
+>>>>>>> main
